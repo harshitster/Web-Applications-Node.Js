@@ -1,0 +1,3 @@
+- WebSockets allow for full duplex communications
+- WebSocket is a seperate protocol from HTTP
+- Persistent connection between client and server
